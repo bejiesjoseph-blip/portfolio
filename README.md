@@ -1,6 +1,6 @@
 # Bejies Joseph — Portfolio
 
-Live site: https://bejiesjoseph-blip.github.io
+Live site: https://bejiesjoseph-blip.github.io/portfolio/
 
 One-page static portfolio — About, Skills, Journey, Certifications, Projects,
 Résumé and Contact. Built from scratch with semantic HTML, modern CSS and
