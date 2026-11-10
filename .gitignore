@@ -1,0 +1,8 @@
+# Editor / OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local-only archive — the old résumé contains personal details (DOB, address)
+resume/archive/
